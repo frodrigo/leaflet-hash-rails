@@ -1,7 +1,7 @@
 # leaflet-hash for Rails
 
 Packaged for the Rails 3.1+ asset pipeline.
-Check [leaflet-hash project home page](https://github.com/mlevans/leaflet-hash).
+Check [leaflet-hash project home page (PowerPan fork)](https://github.com/PowerPan/leaflet-hash).
 
 ## Installation
 
